@@ -37,4 +37,5 @@ A list of useful extensions for TYPO3 9.5.x (my personal TYPO3 9.5.x extension r
   - static_info_tables (static country list) -> [TER](https://extensions.typo3.org/extension/static_info_tables/) | Github (not available) | [Packagist](https://packagist.org/packages/sjbr/static-info-tables) | [Doku](https://docs.typo3.org/typo3cms/extensions/static_info_tables/6.7.4/)
 
 - **Development modules**
-  - be_auto_login (static country list) -> [TER](https://extensions.typo3.org/extension/be_auto_login/) | [Github](https://github.com/hmmh/backend-autologin) | [Packagist](https://packagist.org/packages/hmmh/be-auto-login) | [Doku](https://github.com/hmmh/backend-autologin/blob/master/README.md)
+  - be_auto_login (backend auto login) -> [TER](https://extensions.typo3.org/extension/be_auto_login/) | [Github](https://github.com/hmmh/backend-autologin) | [Packagist](https://packagist.org/packages/hmmh/be-auto-login) | [Doku](https://github.com/hmmh/backend-autologin/blob/master/README.md)
+  - typo3scan (extension scanner to find deprecations and breaking changes, could find more than backend module) -> TER (not available) | [Github](https://github.com/Tuurlijk/typo3scan) | [Packagist](https://packagist.org/packages/michielroos/typo3scan) | [Doku](https://github.com/Tuurlijk/typo3scan/blob/master/Readme.md)
