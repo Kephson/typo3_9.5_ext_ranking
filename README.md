@@ -34,4 +34,7 @@ A list of useful extensions for TYPO3 9.5.x (my personal TYPO3 9.5.x extension r
   - ws_scss -> [TER](https://extensions.typo3.org/extension/ws_scss/) | [Github](https://github.com/svewap/ws_scss/) | [Packagist](https://packagist.org/packages/svewap/ws-scss) | [Doku](https://docs.typo3.org/typo3cms/extensions/ws_scss/stable/)
 
 - **Other modules**
-  - static_info_tables (static country list) -> [TER](https://extensions.typo3.org/extension/static_info_tables/) | [Github]() | [Packagist](https://packagist.org/packages/sjbr/static-info-tables) | [Doku](https://docs.typo3.org/typo3cms/extensions/static_info_tables/6.7.4/)
+  - static_info_tables (static country list) -> [TER](https://extensions.typo3.org/extension/static_info_tables/) | Github (not available) | [Packagist](https://packagist.org/packages/sjbr/static-info-tables) | [Doku](https://docs.typo3.org/typo3cms/extensions/static_info_tables/6.7.4/)
+
+- **Development modules**
+  - be_auto_login (static country list) -> [TER](https://extensions.typo3.org/extension/be_auto_login/) | [Github](https://github.com/hmmh/backend-autologin) | [Packagist](https://packagist.org/packages/hmmh/be-auto-login) | [Doku](https://github.com/hmmh/backend-autologin/blob/master/README.md)
