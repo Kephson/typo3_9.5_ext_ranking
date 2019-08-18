@@ -1,4 +1,4 @@
-# My TYPO3 9.5.x extension ranking list
+# My TYPO3 9.5.x extension top list
 A list of useful extensions for TYPO3 9.5.x (my personal TYPO3 9.5.x extension ranking list).
 
 
